@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="200px" src="https://i.pinimg.com/originals/2e/b1/94/2eb1940c65787496ec5a91b8e4dc1f20.gif" alt="Banner GIF" />
+<img align="center" width="100%" height="200px" src="./public/images/banners/banner2IND.jpg" alt="Banner GIF" />
 
 <h1 align="center">🎮 SMK PRIMA TOPUPGAME</h1>
 
