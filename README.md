@@ -1,40 +1,81 @@
-<img align="center" width="100%" height="200px" src="https://i.pinimg.com/originals/2e/b1/94/2eb1940c65787496ec5a91b8e4dc1f20.gif">
+<img align="center" width="100%" height="200px" src="https://i.pinimg.com/originals/2e/b1/94/2eb1940c65787496ec5a91b8e4dc1f20.gif" alt="Banner GIF" />
 
-- **`SMK PRIMA TOPUPGME`**
-- **`Team : `** 
-- **`Experience: 1+ Years as Frontend Engineers`**
-## ⚙️ Technologies and tools that I have worked with
+<h1 align="center">🎮 SMK PRIMA TOPUPGAME</h1>
+
+<p align="center">
+  🚀 A modern and responsive digital game top-up platform built with Laravel, TailwindCSS, and modern web technologies.
+</p>
+
+---
+
+### 👥 Team Members
+
+| Name              | Role               | GitHub Profile                                |
+|-------------------|--------------------|-----------------------------------------------|
+| Almas Rizky       | Frontend Developer | [@almasrizky](https://github.com/almasrizky)  |
+| Dimas Nugraha     | Backend Developer  | [@dimasngrh](https://github.com/dimasngrh)    |
+| Siti Nur Azizah   | UI/UX Designer     | [@sitiazizah](https://github.com/sitiazizah)  |
+| Reza Maulana      | QA Tester          | [@rezamaulana](https://github.com/rezamaulana)|
+
+> 🔧 **Experience**: 1+ Years as Frontend Engineers
+
+---
+
+## ⚙️ Technologies & Tools
 
 <table>
-    <tr>
-        <td align="center" width="full" height="96">
-            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
-            <br>Laravel
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=git"
-                width="48" height="48" alt="icon" />
-            <br>Git
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=github"
-                width="48" height="48" alt="icon" />
-            <br>Github
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="icon" />
-            <br>PHP
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="icon" />
-            <br>MYSQL
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" /><br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" /><br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
 </table>
 
+---
+
+## 🚀 Features
+
+- ✅ Fast, secure digital top-up system
+- 📦 Product list by game category
+- 💳 Integration with payment gateways (Xendit, QRIS, etc.)
+- 🎥 Video preview for each product (e.g. gameplay or tutorial)
+- 📱 Mobile-first responsive UI
+- 🔐 Authentication and order tracking system
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/smkprima/topupgame.git
+cd topupgame
+
+# 2. Install dependencies
+composer install
+npm install && npm run dev
+
+# 3. Setup environment
+cp .env.example .env
+php artisan key:generate
+
+# 4. Run migrations and seeders
+php artisan migrate --seed
+
+# 5. Start development server
+php artisan serve
