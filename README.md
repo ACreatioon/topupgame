@@ -17,7 +17,7 @@
 | Moch Choirul Faiz | UI/UX Designer     | [@Fizz-Fullstack](https://github.com/Fizz-Fullstack)   |
 | Surya Budi Kusuma | QA Tester          | [@lil-bro](https://github.com/lil-bro)                 |
 
-> 🔧 **Experience**: 1+ Years as Frontend Engineers
+> 🔧 **Experience**: 1+ Years Programmer
 
 ---
 
