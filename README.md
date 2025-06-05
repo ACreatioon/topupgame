@@ -1,3 +1,5 @@
+<img src="./public/images/tampilan.jpg" alt="Banner" />
+
 <p align="center">
   <img src="./public/images/team1.jpg" alt="Banner 1" width="48%" />
   <img src="./public/images/team2.jpg" alt="Banner 2" width="48%" />
