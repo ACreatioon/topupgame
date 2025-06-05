@@ -7,7 +7,7 @@
 
 <table>
     <tr>
-        <td align="center" width="96" height="96">
+        <td align="center" width="full" height="96">
             <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
             <br>Laravel
         </td>
