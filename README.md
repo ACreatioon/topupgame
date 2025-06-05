@@ -1,14 +1,14 @@
-<img align="center" width="100%" height="100%" src="./public/images/banners/bannerIND2.png" alt="Banner" />
+<img align="center" width="100%" height="100%" src="./public/images/team1.jpg" alt="Banner" />
 
-<h1 align="center">🎮 SMK PRIMA TOPUPGAME</h1>
+<h1 align="center">SMK PRIMA TOPUPGAME</h1>
 
 <p align="center">
-  🚀 A modern and responsive digital game top-up platform built with Laravel, TailwindCSS, and modern web technologies.
+  A modern and responsive digital game top-up platform built with Laravel, TailwindCSS, and modern web technologies.
 </p>
 
 ---
 
-### 👥 Team Members
+### Team Members
 
 | Name              | Role               | GitHub Profile                                         |
 |-------------------|--------------------|--------------------------------------------------------|
@@ -48,18 +48,18 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Fast, secure digital top-up system
-- 📦 Product list by game category
-- 💳 Integration with payment gateways (Xendit, QRIS, etc.)
-- 🎥 Video preview for each product (e.g. gameplay or tutorial)
-- 📱 Mobile-first responsive UI
-- 🔐 Authentication and order tracking system
+- Fast, secure digital top-up system
+- Product list by game category
+- Integration with payment gateways (Xendit, QRIS, etc.)
+- Video preview for each product (e.g. gameplay or tutorial)
+- Mobile-first responsive UI
+- Authentication and order tracking system
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # 1. Clone the repository
