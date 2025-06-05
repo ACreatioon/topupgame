@@ -10,12 +10,12 @@
 
 ### 👥 Team Members
 
-| Name              | Role               | GitHub Profile                                   |
-|-------------------|--------------------|--------------------------------------------------|
-| Almas Tegar St    | Frontend Developer | [@almasrizky](https://github.com/ACreatioon)     |
-| Ghani Najmud Ts.  | Backend Developer  | [@dimasngrh](https://github.com/mefromindonesia) |
-| Moch Choirul Faiz | UI/UX Designer     | [@sitiazizah](https://github.com/Fizz-Fullstack) |
-| Surya Budi Kusuma | QA Tester          | [@rezamaulana](https://github.com/lil-bro)       |
+| Name              | Role               | GitHub Profile                                         |
+|-------------------|--------------------|--------------------------------------------------------|
+| Almas Tegar St    | Frontend Developer | [@ACreation](https://github.com/ACreatioon)            |
+| Ghani Najmud Ts.  | Backend Developer  | [@mefromindonesia](https://github.com/mefromindonesia) |
+| Moch Choirul Faiz | UI/UX Designer     | [@Fizz-Fullstack](https://github.com/Fizz-Fullstack)   |
+| Surya Budi Kusuma | QA Tester          | [@lil-bro](https://github.com/lil-bro)                 |
 
 > 🔧 **Experience**: 1+ Years as Frontend Engineers
 
