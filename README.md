@@ -1,13 +1,5 @@
 <img src="./public/images/tampilan.jpg" alt="Banner" />
 
-<p align="center">
-  <img src="./public/images/team1.jpg" alt="Banner 1" width="48%" />
-  <img src="./public/images/team2.jpg" alt="Banner 2" width="48%" />
-</p>
-
-
-
-
 <h1 align="center">SMK PRIMA TOPUPGAME</h1>
 
 <p align="center">
@@ -21,7 +13,7 @@
 | Name              | Role               | GitHub Profile                                         |
 |-------------------|--------------------|--------------------------------------------------------|
 | Almas Tegar St    | Frontend Developer | [@ACreation](https://github.com/ACreatioon)            |
-| Ghani Najmud Ts.  | Backend Developer  | [@mefromindonesia](https://github.com/mefromindonesia) |
+| Ghani Najmud Ts.  | Backend Developer  | [@RujakRujakan](https://github.com/mefromindonesia) |
 | Moch Choirul Faiz | UI/UX Designer     | [@Fizz-Fullstack](https://github.com/Fizz-Fullstack)   |
 | Surya Budi Kusuma | QA Tester          | [@lil-bro](https://github.com/lil-bro)                 |
 
