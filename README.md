@@ -1,4 +1,8 @@
-<img align="center" width="100%" height="100%" src="./public/images/team1.jpg" alt="Banner" />
+<p align="center">
+  <img src="./public/images/team1.jpg" alt="Banner 1" width="48%" />
+  <img src="./public/images/team2.jpg" alt="Banner 2" width="48%" />
+</p>
+
 
 <h1 align="center">SMK PRIMA TOPUPGAME</h1>
 
