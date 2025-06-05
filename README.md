@@ -13,7 +13,7 @@
 | Name              | Role               | GitHub Profile                                         |
 |-------------------|--------------------|--------------------------------------------------------|
 | Almas Tegar St    | Frontend Developer | [@ACreation](https://github.com/ACreatioon)            |
-| Ghani Najmud Ts.  | Backend Developer  | [@RujakRujakan](https://github.com/mefromindonesia) |
+| Ghani Najmud Ts.  | Backend Developer  | [@RujakRujakan](https://github.com/RujakRujakan) |
 | Moch Choirul Faiz | UI/UX Designer     | [@Fizz-Fullstack](https://github.com/Fizz-Fullstack)   |
 | Surya Budi Kusuma | QA Tester          | [@lil-bro](https://github.com/lil-bro)                 |
 
