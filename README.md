@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td><img src="./public/images/banners/banner1.jpg" width="100%" style="object-fit: cover;" height="30%"></td>
-    <td><img src="./public/images/banners/banner2.jpg" width="100%" style="object-fit: cover;" height="30%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./public/images/team1.jpg" alt="Banner 1" width="48%" />
+  <img src="./public/images/team2.jpg" alt="Banner 2" width="48%" />
+</p>
+
+
 
 
 <h1 align="center">SMK PRIMA TOPUPGAME</h1>
