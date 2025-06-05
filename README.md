@@ -1,11 +1,7 @@
 <table>
   <tr>
-    <td>
-      <img src="./public/images/team1.jpg" alt="Banner 1" width="100%" height="200px" style="object-fit: cover;" />
-    </td>
-    <td>
-      <img src="./public/images/team2.jpg" alt="Banner 2" width="100%" height="200px" style="object-fit: cover;" />
-    </td>
+    <td><img src="./public/images/banners/banner1.jpg" width="100%" style="object-fit: cover;" height="30%"></td>
+    <td><img src="./public/images/banners/banner2.jpg" width="100%" style="object-fit: cover;" height="30%"></td>
   </tr>
 </table>
 
