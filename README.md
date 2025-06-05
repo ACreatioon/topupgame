@@ -1,7 +1,13 @@
-<p align="center">
-  <img src="./public/images/team1.jpg" alt="Banner 1" width="48%" />
-  <img src="./public/images/team2.jpg" alt="Banner 2" width="48%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="./public/images/banners/banner1.jpg" alt="Banner 1" width="100%" height="200px" style="object-fit: cover;" />
+    </td>
+    <td>
+      <img src="./public/images/banners/banner2.jpg" alt="Banner 2" width="100%" height="200px" style="object-fit: cover;" />
+    </td>
+  </tr>
+</table>
 
 
 <h1 align="center">SMK PRIMA TOPUPGAME</h1>
